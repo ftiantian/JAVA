@@ -22,5 +22,6 @@ public class BasicFileOutput {
 		out.close();
 		System.out.println(BufferedInputFile.read(file));
 		System.out.println(lineCount);
+		system.out.println("git stauts");
 	}
 }
